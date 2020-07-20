@@ -17,6 +17,7 @@
 		4198E81324C60EF40070555B /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4198E81224C60EF40070555B /* Video.swift */; };
 		4198E81524C60F430070555B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4198E81424C60F430070555B /* Model.swift */; };
 		4198E81724C645F10070555B /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4198E81624C645F10070555B /* ConstantsTemplate.swift */; };
+		4198E81B24C64F050070555B /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4198E81A24C64F050070555B /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4198E81224C60EF40070555B /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		4198E81424C60F430070555B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		4198E81624C645F10070555B /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		4198E81A24C64F050070555B /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				4198E81624C645F10070555B /* ConstantsTemplate.swift */,
 				4198E81224C60EF40070555B /* Video.swift */,
 				4198E81424C60F430070555B /* Model.swift */,
+				4198E81A24C64F050070555B /* Response.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4198E81B24C64F050070555B /* Response.swift in Sources */,
 				4198E81724C645F10070555B /* ConstantsTemplate.swift in Sources */,
 				4198E80124C5797E0070555B /* ViewController.swift in Sources */,
 				4198E7FD24C5797E0070555B /* AppDelegate.swift in Sources */,
